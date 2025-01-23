@@ -1,0 +1,17 @@
+---
+title: "V0.2 Manual"
+title-prefix: "Assembly Manual"
+subtitle: "We Build Spaceshuttles with garden tools"
+author: [Voron Design]
+date: "2025-01-17"
+subject: "Markdown"
+keywords: [Markdown, Example]
+lang: "en"
+titlepage: true
+titlepage-text-color: "005e85"
+titlepage-rule-color: "005e85"
+titlepage-rule-height: 2
+logo: "images/Slide1.png"
+logo-width: 200
+toc-own-page: true
+...
